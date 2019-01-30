@@ -1,0 +1,22 @@
+{
+  "name": "react-file-input",
+  "version": "1.0.0",
+  "description": "Simple react component for file input",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "file-input",
+    "component"
+  ],
+  "author": "Nana Adjei Manu",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.7.0"
+  }
+}
