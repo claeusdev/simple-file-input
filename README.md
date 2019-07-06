@@ -35,6 +35,6 @@ This components takes a few props by default
 the `name` props take the name of the input, for accesibility, the `accept` takes the file types you want to accept, the `onChange` takes the event you want to run on selected file.
 
 
-#Todo
+## Todo
 
-SHip to npm
+- Ship to npm
