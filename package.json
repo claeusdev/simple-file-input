@@ -17,6 +17,6 @@
   "author": "Nana Adjei Manu",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.7.0"
+    "react": "^18.2.0"
   }
 }
