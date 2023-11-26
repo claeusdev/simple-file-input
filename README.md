@@ -1,4 +1,4 @@
-# react-simple-input
+# Simple File Input
 
 Simple file input component for React
 
