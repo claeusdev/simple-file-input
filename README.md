@@ -28,8 +28,7 @@ const Form = () => {
 };
 
 export default Form;
-
-
+```
 This components takes a few props by default
 
 ### Props
