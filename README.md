@@ -5,6 +5,7 @@ Simple file input component for React
 # Usage
 
 ```js
+
 import React from "react";
 import FileInput from "react-simple-input";
 
@@ -27,7 +28,7 @@ const Form = () => {
 };
 
 export default Form;
-```
+
 
 This components takes a few props by default
 
